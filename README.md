@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">I'm David</h1>
+<h1 align="center">Hi there 👋 I'm David</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
 - 🌱 I’m currently learning **.NET, QA, Backend**
