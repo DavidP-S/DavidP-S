@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **davidf.porras@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/davidf-porras/](https://www.linkedin.com/in/davidf-porras/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/davidf-porras/](https://www.linkedin.com/in/davidf-porras/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
